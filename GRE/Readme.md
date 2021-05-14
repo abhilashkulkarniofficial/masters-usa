@@ -53,5 +53,8 @@ Go through all the important questions in your notes in verbal and quant. Revise
 
 1. [GRE Quant - TOP tips for 170/170 | Graduate Exam](https://www.youtube.com/watch?v=VsH_3Lf5UGc&t=304s)
 2. [GRE Verbal - Scoring 160+ | (Resources Attached) #2](https://www.youtube.com/watch?v=KSArEIaQnSQ&t=483s)
+3. [GRE RC's | Tips from 167 Verbal Scorer](https://www.youtube.com/watch?v=tmtFXw22p2w&t=83s)
+4. [GRE Verbal TIPS from 167 scorer | MS in US](https://www.youtube.com/watch?v=UkD7UB2K0WU)
+5. [How To Attempt The Verbal Section Faster( Best Trick)](https://www.youtube.com/watch?v=TIwM5F4NtTM)
 
 

@@ -1,6 +1,6 @@
 # Welcome to Masters in USA repo
 
-Thanks for viewing this repo. I'm systematically making a list of all the resources for you to go from the first step to the last step of your journey to Masters in the United States of America 🇺🇸
+Thanks for viewing this repo. I'm systematically making a list of all the resources for you from the first step to the last step of your journey to Masters in the United States of America 🇺🇸
 
 If you like this repo please give a star and share with everyone who need this. 
 

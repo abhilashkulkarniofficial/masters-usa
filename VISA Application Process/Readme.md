@@ -21,3 +21,11 @@
 17. Property Evaluation Certificate from a government Evaluator (If annual salary of sponsor is less than 5 Lakhs per annum)
 
 *This is just to give you a fair idea about the documents required. Please consult your counselor or anyone who's guiding you through the process.*
+
+## Contribute to VISA experiences
+
+To contribute to the Visa experience folder, create a file with the following format
+
+___Full-Name_Center-Name_Day-Month-Year_Status.md___
+
+Add you Visa experience in it and save it. Push the changes and create pull request.

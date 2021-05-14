@@ -30,7 +30,7 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 8. Selecting final University
 9. Finance Planning
 10. Submitting Documents for I-20
-11. Visa Application Process
+11. [Visa Application Process](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/VISA%20Application%20Process)
 12. Accommodation in USA
 13. Travel to USA
 

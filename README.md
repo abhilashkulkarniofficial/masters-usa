@@ -4,7 +4,9 @@ Thanks for viewing this repo. I'm systematically making a list of all the resour
 
 If you like this repo please give a star and share with everyone who need this. 
 
-If you want to contribute your resources, just fork this repo, clone it, add the resources, commit and push your changes and make a pull request. I'll merge it as soon as possible and you'll become a star member of this community ⭐
+If you want to contribute your resources, just fork this repo, clone it, add the resources, commit and push your changes and make a pull request. I'll merge it as soon as possible and you'll become a star member of this community ⭐ 
+
+Also make sure to join my discord server, [Abhilash's Codehive](https://discord.gg/8V624U6KXu) where I have created a channel for discussion on masters in USA 🎮
 
 ### List of Everything
 

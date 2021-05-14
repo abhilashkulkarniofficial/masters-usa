@@ -18,12 +18,12 @@ Open the link and make a copy of it in your google drive and modify accordingly.
 
 Additionally I'm also providing a ToDo list here with the link to it's corresponding folder.
 
-1. GRE
-2. TOEFL
+1. [GRE](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/GRE)
+2. [TOEFL](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/TOEFL)
 3. Documents for Application
 4. SOP
 5. LOR
-6. University Shortlisting
+6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Shortlist%20Universities)
 7. University Application
 8. Selecting final University
 9. Finance Planning

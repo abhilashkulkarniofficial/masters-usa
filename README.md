@@ -23,7 +23,7 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 3. Documents for Application
 4. SOP
 5. LOR
-6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Shortlist%20Universities)
+6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Universities%20Shortlisting)
 7. University Application
 8. Selecting final University
 9. Finance Planning

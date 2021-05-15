@@ -57,4 +57,8 @@ Go through all the important questions in your notes in verbal and quant. Revise
 4. [GRE Verbal TIPS from 167 scorer | MS in US](https://www.youtube.com/watch?v=UkD7UB2K0WU)
 5. [How To Attempt The Verbal Section Faster( Best Trick)](https://www.youtube.com/watch?v=TIwM5F4NtTM)
 
+## Vocab building
+
+1. [Mnemonic Dictionary](https://mnemonicdictionary.com/)
+
 

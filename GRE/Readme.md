@@ -28,7 +28,8 @@ Practice remaining quant problems from 5lb book in the next 2 to 3 weeks.
 Revise all the sets practiced in the that week.
 * Mock test:
 Take 1 mock test. Keep the environment like a testing centre. Keep an A4 size sheet and a pencil with you for solving the problems.
-After the test, analyse your performance according to the report. Make a note of the sections you didn’t perform well and practice those sections again.
+After the test, analyse your performance according to the report. Make a note of the sections you didn’t perform well and practice those sections again. 
+And after every practice test, go back to the test and make sure you review the kinds of mistake you've made. Identify your strengths and weaknesses through this process.
 
 ### Making notes:
 * Vocabulary building:
@@ -42,14 +43,17 @@ Make a note of the questions you find tough or are important. Write down all the
 Revise all the sets in the Magoosh app.
 Go through all the important questions in your notes in verbal and quant. Revise all formulas and techniques for quant.
 
+**This strategy is based on personal experiences. Please feel free to modify it based on your preferences**
 
+## Few Important Links
 
-## Preparation courses
+### Preparation courses
 
 1. [Galvanize GRE test prep](https://galvanizetestprep.com/gre-test-prep/)
 2. [Manhattan Prep free mock test](https://www.manhattanprep.com/gre/resources/)
+3. [GregMAT](https://www.gregmat.com/)
 
-## Youtube Links
+### Youtube Links
 
 1. [GRE Quant - TOP tips for 170/170 | Graduate Exam](https://www.youtube.com/watch?v=VsH_3Lf5UGc&t=304s)
 2. [GRE Verbal - Scoring 160+ | (Resources Attached) #2](https://www.youtube.com/watch?v=KSArEIaQnSQ&t=483s)
@@ -57,7 +61,7 @@ Go through all the important questions in your notes in verbal and quant. Revise
 4. [GRE Verbal TIPS from 167 scorer | MS in US](https://www.youtube.com/watch?v=UkD7UB2K0WU)
 5. [How To Attempt The Verbal Section Faster( Best Trick)](https://www.youtube.com/watch?v=TIwM5F4NtTM)
 
-## Vocab building
+### Vocab building
 
 1. [Mnemonic Dictionary](https://mnemonicdictionary.com/)
 

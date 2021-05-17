@@ -31,7 +31,7 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 9. Finance Planning
 10. Submitting Documents for I-20
 11. [Visa Application Process](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/VISA%20Application%20Process)
-12. Accommodation in USA
-13. Travel to USA
+12. [Accommodation in the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Accommodation%20in%20the%20USA)
+13. Travel to the USA
 
 🔴 🔴 🔴 🔴 This repo is still a work in progress. 🔴 🔴 🔴 🔴

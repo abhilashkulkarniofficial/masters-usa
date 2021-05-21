@@ -22,16 +22,22 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 
 1. [GRE](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/GRE)
 2. [TOEFL](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/TOEFL)
-3. Documents for Application
+3. [Documents for Application](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Documents%20for%20Application)
 4. SOP
 5. LOR
 6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Universities%20Shortlisting)
 7. University Application
-8. Selecting final University
+8. Selecting Final University
 9. Finance Planning
 10. Submitting Documents for I-20
 11. [Visa Application Process](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/VISA%20Application%20Process)
 12. [Accommodation in the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Accommodation%20in%20the%20USA)
 13. Travel to the USA
+
+### When should I take GRE and TOEFL
+
+Ideally, GRE preparation takes around 2 to 3 months at max. The more time you take, the more you procrastinate (atleast for me 😋). Once you've decided to take the test, book your test date on ETS before starting your preparations. That'll help you by putting a deadline to your preparations and you'll finally take your timeline seriously. 
+
+When you're preparing for GRE, you're (kinda) preparing for TOEFL as well. Some prefer to take TOEFL before taking GRE but I'd suggest you to take TOEFL 7 to 10 days after GRE. This will make sure you remember most of the preparations from GRE and give you enough time to prepare for specific sections of TOEFL. Again, make sure you book the test date before starting your preparations.
 
 🔴 🔴 🔴 🔴 This repo is still a work in progress. 🔴 🔴 🔴 🔴

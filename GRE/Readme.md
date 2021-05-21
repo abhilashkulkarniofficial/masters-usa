@@ -1,7 +1,6 @@
-# GRE prep
+# GRE section
 
 ## 2 months / 10 weeks GRE prep strategy 
-
 
 1. Before starting the preparation, take the free [Manhattan Prep mock test](https://www.manhattanprep.com/gre/free-gre-practice-test/). The test scores will give you a fair idea about your current preparedness. Go through the assessment report and make a note of which sections you didn’t perform well in an increasing order of preparedness.
 
@@ -43,7 +42,7 @@ Make a note of the questions you find tough or are important. Write down all the
 Revise all the sets in the Magoosh app.
 Go through all the important questions in your notes in verbal and quant. Revise all formulas and techniques for quant.
 
-**This strategy is based on personal experiences. Please feel free to modify it based on your preferences**
+**This strategy is based on personal experiences. I scored 319 (153V, 166Q, 4AWA) using this strategy. Please feel free to modify it based on your preferences.**
 
 ## Few Important Links
 

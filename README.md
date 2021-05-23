@@ -23,16 +23,16 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 1. [GRE](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/GRE)
 2. [TOEFL](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/TOEFL)
 3. [Documents for Application](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Documents%20for%20Application)
-4. SOP
-5. LOR
+4. [SOP](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Statement%20of%20Purpose)
+5. [LOR](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Letter%20of%20Recommendation)
 6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Universities%20Shortlisting)
-7. University Application
-8. Selecting Final University
-9. Finance Planning
-10. Submitting Documents for I-20
+7. [University Application](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/University%20Application)
+8. [Selecting Final University](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Select%20Final%20University)
+9. [Finance Planning](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Finance%20Planning)
+10. [Submitting Documents for I-20](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Submitting%20Documents%20for%20I-20)
 11. [Visa Application Process](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/VISA%20Application%20Process)
 12. [Accommodation in the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Accommodation%20in%20the%20USA)
-13. Travel to the USA
+13. [Travel to the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Travel%20to%20the%20USA)
 
 *Check out the new FAQ page.*
 

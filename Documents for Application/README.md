@@ -1,6 +1,6 @@
 # Documents for Application
 
-The following documents are required for most of the university applications. Please check your university's application requirements before you prepare them.
+The following documents are required for most of the university applications. Please check your university's application requirements to see if any other documents are required.
 
 1. Official Transcripts
 2. Statement of Purpose
@@ -11,3 +11,6 @@ The following documents are required for most of the university applications. Pl
 7. TOEFL score report
 8. Provisional Degree Certificate / Degree Certificate
 9. Semester wise markscards
+10. Personal History Statement*
+
+* Few colleges ask for these documents

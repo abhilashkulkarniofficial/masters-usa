@@ -4,7 +4,7 @@
 
 ### Reading Section
 
-The reading section of TOEFL is similar to that of GRE. If you're prepared for GRE reading section, you're prepared for TOEFL reading section as well. Nevertheless, use the Official TOEFL guide (in the Books folder) to practice TOEFL's reading section and you'll be good.
+The reading section of TOEFL is similar to that of GRE. If you're prepared for GRE reading section, you're prepared for TOEFL reading section as well. Nevertheless, use the Official TOEFL guide (in the Books folder) to practice TOEFL's reading section and you'll be good. Make sure you revise all the words you've memorised during GRE prep.
 
 ### Listening Section
 
@@ -23,7 +23,7 @@ Remember, you only need to listen carefully and answer accordingly.
 
 There are 3 types of Speaking questions, Independent, Integrated Listening/Reading/Speaking and Integrated Listening/Speaking. The best way to prepare for these questions is to go through the Speaking section in the Official Guide and the following resources:
 
-Use the following Videos to prepare for the questions:
+Use the following videos to prepare for the speaking section:
 1. [New TOEFL - Speaking Question 1](https://www.youtube.com/watch?v=ML0VXilNQ4s)
 2. [New TOEFL - Speaking Question 2](https://www.youtube.com/watch?v=9eQ3mu_19Zk)
 3. [New TOEFL - Speaking Question 3](https://www.youtube.com/watch?v=DTTbBxhtWYQ&t=714s)
@@ -41,12 +41,12 @@ According to the Official Guide, in an integrated essay *you will read a passage
 
 At first this sounds like a daunting task but this is the easiest section for you to score high. Just practice the following templates and read the official guide and you'll be ready for this section.
 
-The following videos will prepare you for the writing section:
+Use the following videos to prepare for the writing section:
 1. [The 2020 Guide to the TOEFL Independent Essay](https://www.youtube.com/watch?v=ZqQcEBb9Zf0)
 2. [The 2020 Guide to the TOEFL Integrated Essay](https://www.youtube.com/watch?v=8RP01I8xvn4)
 *I followed the 2019 guide for these 2 essays. These are much better updated versions.*
 
-**I scored 93 and 107 in the first and second attempt respectively by following this prep strategy. Please feel free to modify it based on your preferences.**
+**I scored 93 and 107 in the first and second attempt respectively by following this strategy. Please feel free to modify it based on your preferences.**
 
 ## Youtube Links
 

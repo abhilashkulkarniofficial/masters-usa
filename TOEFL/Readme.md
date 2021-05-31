@@ -44,6 +44,7 @@ At first this sounds like a daunting task but this is the easiest section for yo
 Use the following videos to prepare for the writing section:
 1. [The 2020 Guide to the TOEFL Independent Essay](https://www.youtube.com/watch?v=ZqQcEBb9Zf0)
 2. [The 2020 Guide to the TOEFL Integrated Essay](https://www.youtube.com/watch?v=8RP01I8xvn4)
+
 *I followed the 2019 guide for these 2 essays. These are much better updated versions.*
 
 **I scored 93 and 107 in the first and second attempt respectively by following this strategy. Please feel free to modify it based on your preferences.**

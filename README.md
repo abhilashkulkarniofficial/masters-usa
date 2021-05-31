@@ -34,6 +34,6 @@ Additionally I'm also providing a ToDo list here with the link to it's correspon
 12. [Accommodation in the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Accommodation%20in%20the%20USA)
 13. [Travel to the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Travel%20to%20the%20USA)
 
-*Check out the new FAQ page.*
+*Check out the new [FAQ page](https://github.com/abhilashkulkarniofficial/masters-usa/blob/main/FAQ.md).*
 
 🔴 🔴 🔴 🔴 This repo is still a work in progress. 🔴 🔴 🔴 🔴

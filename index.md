@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome to Masters in USA repo
 
-You can use the [editor on GitHub](https://github.com/abhilashkulkarniofficial/masters-usa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks for viewing this repo. I'm systematically making a list of all the resources for you from the first step to the last step of your journey to Masters in the United States of America 🇺🇸
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you like this repo please give a star and share with everyone who need this. 
 
-### Markdown
+If you want to contribute your resources, just fork this repo, clone it, add the resources, commit and push your changes and make a pull request. I'll merge it as soon as possible and you'll become a star member of this community ⭐ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also make sure to join my discord server, [Abhilash's Codehive](https://discord.gg/8V624U6KXu) where I have created a channel for discussion on masters in USA 🎮
 
-```markdown
-Syntax highlighted code block
+### List of Everything
 
-# Header 1
-## Header 2
-### Header 3
+I've created a google sheet that you can use as a tracker at every step and I've named it the [List of Everything](https://docs.google.com/spreadsheets/d/1zbWnGMGHmEGy2k1CKvkokiBQf_Lf0JzZoiEBv1tAU58/edit?usp=sharing).
 
-- Bulleted
-- List
+*How to use it you ask?* 🤔
 
-1. Numbered
-2. List
+Open the link and make a copy of it in your google drive and modify accordingly. It's that simple.
 
-**Bold** and _Italic_ and `Code` text
+### ToDos
 
-[Link](url) and ![Image](src)
-```
+Additionally I'm also providing a ToDo list here with the link to it's corresponding folder.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [GRE](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/GRE)
+2. [TOEFL](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/TOEFL)
+3. [Documents for Application](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Documents%20for%20Application)
+4. [SOP](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Statement%20of%20Purpose)
+5. [LOR](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Letter%20of%20Recommendation)
+6. [University Shortlisting](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Universities%20Shortlisting)
+7. [University Application](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/University%20Application)
+8. [Selecting Final University](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Select%20Final%20University)
+9. [Finance Planning](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Finance%20Planning)
+10. [Submitting Documents for I-20](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Submitting%20Documents%20for%20I-20)
+11. [Visa Application Process](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/VISA%20Application%20Process)
+12. [Accommodation in the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Accommodation%20in%20the%20USA)
+13. [Travel to the USA](https://github.com/abhilashkulkarniofficial/masters-usa/tree/main/Travel%20to%20the%20USA)
 
-### Jekyll Themes
+*Check out the new [FAQ page](https://github.com/abhilashkulkarniofficial/masters-usa/blob/main/FAQ.md).*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhilashkulkarniofficial/masters-usa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🔴 🔴 🔴 🔴 This repo is still a work in progress. 🔴 🔴 🔴 🔴

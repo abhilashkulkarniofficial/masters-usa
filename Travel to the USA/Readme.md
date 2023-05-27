@@ -6,7 +6,7 @@
 
 ## Qatar Airways
 
-Qatar Airways has a Student Club which provides many benefits like discounts, free extra baggage, complementary WiFi, etc. Before booking the flight by Qatar Airways, follow these steps:
+Qatar Airways has a Student Club which provides many benefits like discounts, free extra baggage, complementary WiFi, etc. Before booking the flight through Qatar Airways, follow these steps:
 
 1. Create an account in [Qatar Airways](https://www.qatarairways.com/en/homepage.html) website.
 2. Login and go to Dashboard.
